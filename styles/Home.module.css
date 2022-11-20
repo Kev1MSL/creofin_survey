@@ -1,0 +1,4 @@
+li.finger:before{
+    content: "\1F449";
+    margin-right: 5px;
+}
